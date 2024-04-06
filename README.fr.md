@@ -32,13 +32,13 @@
 
 Vercel :<http://dy.ttentau.top/>(La Chine recommande de visiter ceci)
 
-Netlifier :<https://douyins.netlify.app/>(Recommandé de visiter ceci pour les zones en dehors de la Chine)
+Netlifier :<https://douyins.netlify.app/>(Je recommande de visiter ceci pour les régions en dehors de la Chine)
 
 Android Apk :<https://github.com/zyronon/douyin/releases>
 
 **Avis**：`PC`Vous devez passer le navigateur en mode mobile, appuyez d'abord sur`F12`Pour afficher la console, appuyez sur`Ctrl+Shift+M`pour prévisualiser normalement
 
-**Avis**: Veuillez utiliser votre téléphone portable[via un navigateur](https://viayoo.com/zh-cn/)ou aperçu du navigateur Chrome. D'autres navigateurs peuvent forcer la vidéo à passer en plein écran, ce qui l'empêchera de s'afficher correctement.
+**Avis**：Veuillez utiliser un téléphone portable[via un navigateur](https://viayoo.com/zh-cn/)ou aperçu du navigateur Chrome. D'autres navigateurs peuvent forcer la vidéo à passer en plein écran, ce qui l'empêchera de s'afficher correctement.
 
 ## Clause de non-responsabilité
 
