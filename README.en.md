@@ -32,13 +32,13 @@
 
 Vercel:<http://dy.ttentau.top/>(China recommends visiting this)
 
-Netlify:<https://douyins.netlify.app/>(Recommended to visit this for areas outside China)
+Netlify:<https://douyins.netlify.app/>(Recommend visiting this for areas outside China)
 
 Android Apk:<https://github.com/zyronon/douyin/releases>
 
 **Notice**：`PC`You must switch the browser to mobile mode, first press`F12`To bring up the console, press`Ctrl+Shift+M`to preview normally
 
-**Notice**: Please use your mobile phone[via browser](https://viayoo.com/zh-cn/)or Chrome browser preview. Other browsers may force the video to full screen, causing it to not display properly.
+**Notice**：Please use mobile phone[via browser](https://viayoo.com/zh-cn/)or Chrome browser preview. Other browsers may force the video to full screen, causing it to not display properly.
 
 ## Disclaimer
 
@@ -93,7 +93,7 @@ The above content is all public information on the Internet
 
 ## Features and suggestions
 
-The project is currently in the early stages of development and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
+The project is currently in the early stages of development, and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
 If you also like the design ideas of this software, please submit it`PR`, thank you very much for your support!
 
 ## contact me
