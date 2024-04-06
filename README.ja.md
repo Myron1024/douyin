@@ -13,7 +13,8 @@
   <a><img src="https://img.shields.io/badge/Powered%20by-Vue-blue"/></a>
 </p>
 
-`douyin-vue`パロディです`抖音|TikTok`をベースにしたモバイルショートビデオプロジェクト[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)成し遂げる。最新のものを使用しました`Vue`ファミリーマートのテクノロジースタック。 API データはプロジェクト内でローカルに保存され、ビデオはから収集されます。`抖音|TikTok`、アトラスはから収集されています`小红书|Xiaohongshu`、合格[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)ライブラリは API をインターセプトし、ローカルの JSON データを返して、実際のバックエンド リクエストをシミュレートします。
+`douyin-vue`パロディです`抖音|TikTok`をベースにしたモバイルショートビデオプロジェクト[`Vue`](https://cn.vuejs.org/)、[`Vite`](https://cn.vitejs.dev/)
+实现。使用了最新的 `Vue`ファミリーマートのテクノロジースタック。 API データはプロジェクト内でローカルに保存され、ビデオはから収集されます。`抖音|TikTok`、アトラスはから収集されています`小红书|Xiaohongshu`、合格[`axios-mock-adapter`](https://github.com/ctimmerm/axios-mock-adapter)ライブラリは API をインターセプトし、ローカルの JSON データを返して、実際のバックエンド リクエストをシミュレートします。
 
 <div>
 <img width="150px" src='docs/imgs/1.gif' />
@@ -32,17 +33,17 @@
 
 ヴェルセル:[ｈっｔｐ：／／ｄｙ。ってんたう。とｐ／](http://dy.ttentau.top/)（中国はここを訪れることを推奨しています）
 
-ネットリファイ:[ｈっｔｐｓ：／／どうｙいんｓ。ねｔぃｆｙ。あっｐ／](https://douyins.netlify.app/)(中国以外の地域については、こちらを参照することをお勧めします)
+ネットリファイ:[ｈっｔｐｓ：／／どうｙいんｓ。ねｔぃｆｙ。あっｐ／](https://douyins.netlify.app/)(中国以外の地域の場合は、こちらを参照することをお勧めします)
 
 アンドロイドAPK:[ｈっｔｐｓ：／／ぎてゅｂ。こｍ／ｚｙろのん／どうｙいん／れぇあせｓ](https://github.com/zyronon/douyin/releases)
 
-**注意**：`PC`ブラウザをモバイル モードに切り替えて、最初に を押す必要があります。`F12` 调出控制台，再按 `Ctrl+Shift+M`通常にプレビューする
+**注意**：`PC`ブラウザをモバイル モードに切り替えて、最初に を押す必要があります。`F12`コンソールを表示するには、 を押します。`Ctrl+Shift+M`通常にプレビューする
 
-**注意**: 携帯電話をご利用ください[ブラウザ経由](https://viayoo.com/zh-cn/)またはChromeブラウザのプレビュー。他のブラウザではビデオが強制的に全画面表示になり、正しく表示されない場合があります。
+**注意**：携帯電話をご利用ください[ブラウザ経由](https://viayoo.com/zh-cn/)またはChromeブラウザのプレビュー。他のブラウザではビデオが強制的に全画面表示になり、正しく表示されない場合があります。
 
 ## 免責事項
 
-本项目仅适用于学习和研究，不得用于商业使用
+このプロジェクトは調査と研究のみを目的としており、商用目的ではありません
 
 ## 走る
 
